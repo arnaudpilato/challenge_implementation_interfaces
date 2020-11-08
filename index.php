@@ -64,6 +64,12 @@ try {
     echo "Ma voiture roule comme un Donut" . '<br>';
 }
 
-echo $canyonera->start();
-
 var_dump($canyonera->switchOn());
+var_dump($canyonera->switchOff());
+
+var_dump($bike->switchOn());
+var_dump($bike->switchOff());
+
+$bike->setCurrentSpeed(30);
+var_dump($bike->switchOn());
+var_dump($bike->switchOff());

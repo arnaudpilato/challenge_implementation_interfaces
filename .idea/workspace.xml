@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8cadb347-9852-4c03-9bfa-f4a5ace21444" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bicycle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Highway.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LightableInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MotorWay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PedestrianWay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ResidentialWay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Truck.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bicycle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bicycle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LightableInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightableInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +32,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604871214249</updated>
-      <workItem from="1604871215411" duration="445000" />
+      <workItem from="1604871215411" duration="1829000" />
     </task>
     <servers />
   </component>
@@ -60,9 +58,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="715" y="490" key="NewPhpFileDialog" timestamp="1604871450123">
+    <state x="699" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1604872915430">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="715" y="490" key="NewPhpFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604871450123" />
+    <state x="699" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1604872915430" />
+    <state x="715" y="490" key="NewPhpFileDialog" timestamp="1604872269563">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="715" y="490" key="NewPhpFileDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1604872269563" />
   </component>
 </project>

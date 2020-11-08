@@ -1,6 +1,7 @@
 <?php
 
 require_once 'vehicle.php';
+require_once 'LightableInterface.php';
 
 class Car extends Vehicle implements LightableInterface
 {
@@ -61,13 +62,13 @@ class Car extends Vehicle implements LightableInterface
         $this->hasParkBrake = $hasParkBrake;
     }
 
-    public function switchOn($value)
+    public function switchOn() : bool
     {
-        $this->switchOn(true);
+        return true;
     }
 
-    public function switchOff($value)
+    public function switchOff() : bool
     {
-        $this->switchOff(false);
+        return false;
     }
 }

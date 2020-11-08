@@ -2,6 +2,6 @@
 
 interface LightableInterface
 {
-    public function switchOn($value);
-    public function switchOff($value);
+    public function switchOn() : bool;
+    public function switchOff() : bool;
 }
