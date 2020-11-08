@@ -1,0 +1,15 @@
+{
+    "name": "pil/challenge_implementation_interfaces",
+    "authors": [
+        {
+            "name": "Pil",
+            "email": "70975556+arnaudpilato@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src"
+        }
+    }
+}
