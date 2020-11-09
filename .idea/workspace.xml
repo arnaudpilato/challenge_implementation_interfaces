@@ -6,23 +6,24 @@
   <component name="ChangeListManager">
     <list default="true" id="8cadb347-9852-4c03-9bfa-f4a5ace21444" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bicycle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Bicycle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Car.php" beforeDir="false" afterPath="$PROJECT_DIR$/Car.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LightableInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/LightableInterface.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Brew" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="Brew">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1k1bnnskVtR5ZZGp9jfP4SrsiDx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,7 +51,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604871214249</updated>
-      <workItem from="1604871215411" duration="1829000" />
+      <workItem from="1604871215411" duration="2391000" />
+      <workItem from="1604877746916" duration="14000" />
     </task>
     <servers />
   </component>
@@ -62,6 +64,22 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="699" y="249" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1604872915430" />
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1604877740729">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1604877740729" />
+    <state width="1750" height="318" key="GridCell.Tab.0.center" timestamp="1604877740728">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1604877740728" />
+    <state width="1750" height="318" key="GridCell.Tab.0.left" timestamp="1604877740725">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1604877740725" />
+    <state width="1750" height="318" key="GridCell.Tab.0.right" timestamp="1604877740729">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1604877740729" />
     <state x="715" y="490" key="NewPhpFileDialog" timestamp="1604872269563">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
